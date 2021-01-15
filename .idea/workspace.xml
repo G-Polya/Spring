@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ba2b6791-f3ba-44ae-bc4c-e755e0c14b0d" name="Default Changelist" comment="" />
+    <list default="true" id="ba2b6791-f3ba-44ae-bc4c-e755e0c14b0d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/test/src/Decorator/Beverage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/Decorator/ContimentDecorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/Decorator/DarkRoast.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/Decorator/Espresso.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/Decorator/HouseBlend.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/Decorator/IO/InputTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/Decorator/IO/LowercaseInputStream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/Decorator/IO/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/Decorator/Mocha.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/Decorator/Soy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/Decorator/StarbuzzCoffee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/Decorator/SteamMilk.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/Decorator/Whip.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/Observer/swing/SwingObserverExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/Observer/weatherObservable/DisplayElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/Observer/weatherObservable/ForecastDisplay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/Observer/weatherObservable/WeatherData.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
