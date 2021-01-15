@@ -1,4 +1,4 @@
-package swing;
+package Observer.swing;
 
 import javax.swing.*;
 import java.awt.*;
