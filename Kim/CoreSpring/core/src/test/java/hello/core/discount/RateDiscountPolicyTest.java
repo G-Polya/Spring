@@ -6,7 +6,6 @@ import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
-import static org.assertj.core.api.Assertions.*;
 import static org.junit.jupiter.api.Assertions.*;
 
 class RateDiscountPolicyTest {
@@ -22,7 +21,7 @@ class RateDiscountPolicyTest {
 
 
         //then
-        assertThat(discount).isEqualTo(1000);
+        Assertions.assertThat(discount).isEqualTo(1000);
     }
 
     @Test
@@ -35,7 +34,7 @@ class RateDiscountPolicyTest {
 
 
         //then
-        assertThat(discount).isEqualTo(0);
+        Assertions.assertThat(discount).isEqualTo(0);
 
     }
 }
